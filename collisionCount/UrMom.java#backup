@@ -1,0 +1,19 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+
+
+public class UrMom extends Actor
+{
+    private String name;
+    private int speed;
+    private int turnAmount;
+    
+    public 
+    
+    public void act() 
+    {
+
+       
+        
+    }    
+}
